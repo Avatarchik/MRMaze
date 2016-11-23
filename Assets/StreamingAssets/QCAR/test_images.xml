@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="imageedit_12_7970386773" size="10.000000 8.166667" />
+    <ImageTarget name="imageedit_1_3674101054" size="50.000000 49.252716" />
+    <ImageTarget name="imageedit_8_3720935411" size="50.000000 60.687023" />
+    <ImageTarget name="imageedit_10_2885477930" size="50.000000 62.121212" />
+    <ImageTarget name="imageedit_12_6970241852" size="50.000000 59.509201" />
+    <ImageTarget name="imageedit_15_5538109067" size="50.000000 34.615383" />
+    <ImageTarget name="card1" size="50.000000 27.945620" />
+    <ImageTarget name="imageedit_13_5242092240" size="50.000000 47.669491" />
+    <ImageTarget name="imageedit_11_3784810919" size="50.000000 27.933884" />
+    <ImageTarget name="imageedit_9_2211857277" size="50.000000 73.974762" />
+    <ImageTarget name="imageedit_5_3314325910" size="50.000000 49.797161" />
+    <ImageTarget name="imageedit_3_7836794961" size="50.000000 25.629406" />
+    <ImageTarget name="stones_hires" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>
